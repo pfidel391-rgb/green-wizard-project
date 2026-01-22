@@ -13,3 +13,6 @@ Bridging the gap between **Sustainable Economic Theory** and **IT Infrastructure
 - **Languages:** Python (Pandas), SQL
 - **Blockchain:** Dune Analytics, dbt (Data Build Tool)
 - **Security:** VDI/VPN Network Architecture
+### 📊 Live Onchain Dashboards
+- [Real-time Ethereum Whale Tracker]([PASTE_YOUR_DUNE_LINK_HERE](https://dune.com/queries/6584898/ee83fc47-b6cd-4ccd-a10a-3d81d87979b9?utm_source=share&utm_medium=copy&utm_campaign=query))
+*Monitoring high-value capital movement to analyze market sentiment and liquidity.*
